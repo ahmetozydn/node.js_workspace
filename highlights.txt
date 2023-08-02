@@ -1,0 +1,9 @@
+
+Node.js is an open-source, cross-platform, server-side JavaScript runtime environment built on Chrome's V8 JavaScript engine. 
+It allows developers to execute JavaScript code outside of a web browser and run it as a standalone application on a server or a computer.
+
+Asynchronous and Non-Blocking: Node.js uses an event-driven, non-blocking I/O model. This means that it can handle multiple concurrent connections efficiently without blocking the execution of other tasks. 
+
+NPM (Node Package Manager): Node.js comes with a powerful package manager called NPM, which provides access to a vast ecosystem of open-source libraries and modules. 
+
+Use Cases: Node.js is commonly used for building server-side applications, APIs, real-time web applications (e.g., chat applications, gaming servers), microservices,
